@@ -1,4 +1,4 @@
-
+DELETE
 # Adapter application (Python)
 
 This application is an adapter for [Pääsuke](https://github.com/e-gov/PH) written in Python Flask.
